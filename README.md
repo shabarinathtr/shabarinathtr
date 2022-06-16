@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @shabarinathtr
+- 👋 Hi, I’m @shabarinath tr , AKA Shaba
 - 👀 Keralite, Leftist, Aithest
-- 🌱 I’m currently learning automation
-- 💞️ I’m looking to collaborate on powershell
-- 📫 Reach me @ decodingcloud.com
+- 🌱 Learn anything which can make me a better human
+- 💞️ I’m looking to collaborate with people
+- 📫 Reach me shaba@decodingcloud.com
 
-<!---
-shabarinathtr/shabarinathtr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
